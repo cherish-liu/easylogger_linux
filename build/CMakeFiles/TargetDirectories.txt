@@ -1,0 +1,3 @@
+/mnt/share/demo/44-easylog/build/CMakeFiles/rebuild_cache.dir
+/mnt/share/demo/44-easylog/build/CMakeFiles/edit_cache.dir
+/mnt/share/demo/44-easylog/build/CMakeFiles/app.dir
